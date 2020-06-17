@@ -1,8 +1,30 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  color: white;
+}
+
+a:not(:first-child) {
+  margin-left: 20px;
 }
 
 html {
-  font-family: "Roboto", sans-serif;
+  font-family: "Inter", sans-serif;
+  line-height: 30px;
+  font-size: 19px;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  max-width: 1140px;
+  margin: 0 auto;
+  background-color: #181a1b;
+  color: #fff;
 }

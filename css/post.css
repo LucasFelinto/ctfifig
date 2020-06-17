@@ -1,0 +1,37 @@
+.post {
+  display: grid;
+  grid-template-columns: minmax(1.2rem, 2fr) minmax(auto, 57ch) minmax(
+      1.2rem,
+      1fr
+    );
+  /* margin-top: 30px; */
+}
+
+.post p {
+  grid-column: 1 / 4;
+  font-weight: 400;
+  text-indent: 20px;
+  text-align: justify;
+  /* background-color: #2d397c; */
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 10px 15px black;
+  border: 2px solid black;
+}
+
+.post h1 {
+  font-size: 33px;
+  margin: 20px 0;
+}
+
+.post img {
+  grid-column: 2 / 3;
+  max-width: 100%;
+  justify-self: center;
+  align-self: center;
+  margin-bottom: 40px;
+}
+
+.post ul {
+  grid-column: 1 / 4;
+}
