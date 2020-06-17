@@ -17,7 +17,7 @@
 
   <section class="post">
     <img src="../img/level2.jpg"/>
-    <h1 class="ch">Normalmente os homens preocupam-se mais com aquilo que não podem ver do que com aquilo que podem.</h1>
+    <p class="ch">Normalmente os homens preocupam-se mais com aquilo que não podem ver do que com aquilo que podem.</p>
   </section>
 </body>
 </html>

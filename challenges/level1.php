@@ -16,7 +16,7 @@
 
   <section class="post">
     <img src="../img/level1.png"/>
-    <h1 class="ch">Encontre a fonte do erro 64</h1>
+    <p class="ch">Encontre a fonte do erro 64</p>
     <input type="hidden" value="Y3RmaWZpZ19mbGFnX01pc3NpbmdObzY0Cg==">
   </section>
 </body>

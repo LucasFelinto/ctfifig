@@ -27,10 +27,13 @@
   grid-column: 2 / 3;
   max-width: 100%;
   justify-self: center;
-  align-self: center;
+  /* align-self: center; */
   margin-bottom: 40px;
   margin-top: 90px;
   filter: hue-rotate(20px);
+  box-shadow: 10px 15px black;
+  border: 2px solid black;
+  border-radius: 4px;
 }
 
 .post ul {
@@ -40,4 +43,9 @@
 .post .ch {
   grid-column: 2 / 3;
   justify-self: center;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 10px 15px black;
+  border: 2px solid black;
+  font-size: 19px !important;
 }
