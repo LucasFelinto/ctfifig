@@ -13,7 +13,7 @@
   <img src="../img/level1.png"/>
   <h4>Encontre a fonte do erro 64</h4>
 
-  <input type="hidden" value="ZmxhZ19udW1iZXJfb25lCg==">
+  <input type="hidden" value="Y3RmaWZpZ19mbGFnX01pc3NpbmdObzY0Cg==">
 
 </body>
 </html>
