@@ -12,11 +12,11 @@
 </head>
 <body>
   <?php
-    include '../components/header.php';
+    include '../components/header.php'; 
   ?>
 
   <section class="post">
-    <img src="../img/level2.png"/>
+    <img src="../img/level2.jpg"/>
     <h1 class="ch">Normalmente os homens preocupam-se mais com aquilo que não podem ver do que com aquilo que podem.</h1>
   </section>
 </body>
