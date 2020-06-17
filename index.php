@@ -10,19 +10,10 @@
   <title>CTF IFIG</title>
 </head>
 <body>
-  <header class="header">
-    <h1>CTF IFIG</h1>
-    
-    <nav>
-      <a href="../challenges/level1.php"> Level 1</a>
-      <a href="">Level 2</a>
-      <a href="">Level 3</a>
-      <a href="">Level 4</a>
-      <a href="">Level 5</a>
-      <a href="">Level 6</a>
-      <a href="">Level 7</a>
-    </nav>
-  </header>
+
+  <?php
+    include 'components/header.php';
+  ?>
 
   <section class="post">
     <img src="https://cdn1.iconfinder.com/data/icons/game-design-color-pop-vol-1/64/capture-the-flag-512.png" alt="capture the flag">

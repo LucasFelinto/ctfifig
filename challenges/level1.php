@@ -4,16 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="../css/base.css">
+  <link rel="stylesheet" href="../css/post.css">
+  <link rel="stylesheet" href="../css/header.css">
   <title>CTF IFIG</title>
 </head>
 <body>
+  <?php
+    include '../components/header.php';
+  ?>
 
-<div class="level1">
-  <img src="../img/level1.png"/>
-  <h4>Encontre a fonte do erro 64</h4>
-
-  <input type="hidden" value="Y3RmaWZpZ19mbGFnX01pc3NpbmdObzY0Cg==">
-
+  <section class="post">
+    <img src="../img/level1.png"/>
+    <h1 class="ch">Encontre a fonte do erro 64</h1>
+    <input type="hidden" value="Y3RmaWZpZ19mbGFnX01pc3NpbmdObzY0Cg==">
+  </section>
 </body>
 </html>

@@ -16,4 +16,10 @@
   color: black;
   margin-top: 10px;
   font-size: 22px;
+  text-decoration: none;
+}
+
+.header h1 a {
+  color: black;
+  text-decoration: none;
 }
