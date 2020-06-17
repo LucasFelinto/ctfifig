@@ -14,7 +14,7 @@
     <h1>CTF IFIG</h1>
     
     <nav>
-      <a href="">Level 1</a>
+      <a href="../challenges/level1.php"> Level 1</a>
       <a href="">Level 2</a>
       <a href="">Level 3</a>
       <a href="">Level 4</a>
